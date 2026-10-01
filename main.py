@@ -1,8 +1,3 @@
-# ============================================
-# Iris Flower Classification using KNN
-# DecodeLabs - AI Project 2
-# ============================================
-
 # 1. Import required libraries
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
